@@ -1,0 +1,7 @@
+git init -> Membuat Repository
+git add -> Menambahkan file ke stage area
+git commit -> Menambahkan file ke repository
+-m -> Message
+git diff -> Melihat perubahan pada file
+git log -> Melihat history dari file
+--oneline -> Melihat satu baris saja

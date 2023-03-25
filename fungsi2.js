@@ -1,1 +1,1 @@
-console.log("Ini adalah pesan test");
+const deduct = (a, b) => a - b;
