@@ -14,3 +14,4 @@ git checkout    -> Berpindah branch
 git merge       -> Menggabungkan branch dengan master
 git revert      -> Merevisi commit / kembali ke versi commit sebelumnya dan tidak menghapus commit terbaru,
                    tapi akan terjadi conflict antara versi commit lama yang dipilih dengan commit terbaru
+git clone       -> Menyalin repository Git ke local komputer
