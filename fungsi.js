@@ -9,3 +9,6 @@ console.log(multyplyNumber(3, 3));
 
 const divide = (a, b) => a / b;
 console.log(divide(10, 2));
+
+const mathSin = (number) => Math.sin(number);
+console.log(mathSin(50));
