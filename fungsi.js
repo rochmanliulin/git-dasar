@@ -1,4 +1,5 @@
-console.log("Fungsi pertama");
-
 const add = (a, b) => a + b;
-console.log(1, 2);
+console.log(add(1, 1));
+
+const subtract = (a, b) => a - b;
+console.log(subtract(5, 2));
