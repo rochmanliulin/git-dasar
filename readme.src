@@ -9,3 +9,6 @@ git restore     -> Mengembalikan perubahan file
 -S / --stage    -> Mengembalikan file dari staging ke working directory
 git reset       -> Mengembalikan file dari staging ke working directory
 --hard          -> Mengembalikan repository ke versi sebelumnya
+git checkout    -> Berpindah branch
+-b              -> Membuat branch baru
+git merge       -> Menggabungkan branch dengan master
