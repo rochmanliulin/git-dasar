@@ -83,12 +83,19 @@ Menyalin repository Git ke local komputer
 git clone
 ```
 
-Mengupload local repository ke remote repository (Github, Gitlab, dll)
+Menupload local repository ke remote repository (Github, Gitlab, dll)
 ```shell
 git push
 ```
 
-> Cara untuk kembali ke commit versi lama ada 3, yaitu
-- git checkout  : Kembali hanya untuk sementara (tidak disarankan)
-- git reset     : Kembali dan menghapus versi terbaru
-- git revert    : Kembali dan versi terbaru tetap ada
+Mendownload remote repository ke local repository
+```shell
+git pull
+```
+
+
+### Noted
+Cara kembali dari commit versi terbaru ke versi lama :
+- `git checkout`  : Kembali hanya untuk sementara (tidak disarankan)
+- `git reset`     : Kembali dan menghapus versi terbaru
+- `git revert`    : Kembali dan versi terbaru tetap ada
